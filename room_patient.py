@@ -47,7 +47,7 @@ class Map:
                         ["#","#","#","#"],
                         ["#","#","#","#"],
                         ["#","#","#","#"]]:
-            # print(self.solution)
+            print(self.solution)
             self.print_solution()
         
         current_cell = self.solution[-1]
